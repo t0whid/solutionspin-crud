@@ -1,0 +1,1 @@
+# solutionspin-crud
